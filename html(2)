@@ -6,7 +6,7 @@ data-wf-page="5f113d12bb9eaa5a88d245f0" data-wf-site=
 "5f113d12bb9eaa519cd245ef">
 <head>
   <meta charset="utf-8">
-  <title>Pricing Columns</title>
+  <title>Shopify Merchant Services - Sultry Toys</title>
   <meta content="width=device-width, initial-scale=1" name=
   "viewport">
   <meta content="Webflow" name="generator">
@@ -45,7 +45,7 @@ data-wf-page="5f113d12bb9eaa5a88d245f0" data-wf-site=
               <div class="c-plantype">
                 <div class="_w-plantype">
                   <div class="plantype">
-                    Monthly
+                    Lite
                   </div>
                 </div>
               </div>
@@ -53,15 +53,15 @@ data-wf-page="5f113d12bb9eaa5a88d245f0" data-wf-site=
                 <div class="_w-price">
                   <div class="c-currency">
                     <div class="currency">
-                      $
+                      R
                     </div>
                   </div>
                   <div class="c-amount">
                     <div class="amount">
-                      24
+                      199
                     </div>
                     <div class="decimal">
-                      .95
+                      .99
                     </div>
                   </div>
                 </div>
@@ -125,7 +125,7 @@ data-wf-page="5f113d12bb9eaa5a88d245f0" data-wf-site=
                 <div class="_w-price-btn">
                   <a href="#" class="a-price-btn w-inline-block">
                   <div>
-                    Subscribe Now
+                    SELECT THIS PLAN
                   </div></a>
                 </div>
               </div>
@@ -136,14 +136,14 @@ data-wf-page="5f113d12bb9eaa5a88d245f0" data-wf-site=
               <div class="c-highlight">
                 <div class="_w-highlight">
                   <div class="highlight">
-                    Best Value!
+                    Popular!
                   </div>
                 </div>
               </div>
               <div class="c-plantype">
                 <div class="_w-plantype">
                   <div class="plantype">
-                    Annually
+                    Standard
                   </div>
                 </div>
               </div>
@@ -151,15 +151,15 @@ data-wf-page="5f113d12bb9eaa5a88d245f0" data-wf-site=
                 <div class="_w-price">
                   <div class="c-currency">
                     <div class="currency">
-                      $
+                      R
                     </div>
                   </div>
                   <div class="c-amount">
                     <div class="amount">
-                      249
+                      499
                     </div>
                     <div class="decimal">
-                      .95
+                      .99
                     </div>
                   </div>
                 </div>
@@ -223,7 +223,7 @@ data-wf-page="5f113d12bb9eaa5a88d245f0" data-wf-site=
                 <div class="_w-price-btn">
                   <a href="#" class="a-price-btn w-inline-block">
                   <div>
-                    Subscribe Now
+                    SELECT THIS PLAN
                   </div></a>
                 </div>
               </div>
@@ -234,7 +234,7 @@ data-wf-page="5f113d12bb9eaa5a88d245f0" data-wf-site=
               <div class="c-plantype">
                 <div class="_w-plantype">
                   <div class="plantype">
-                    Quarterly
+                    Enterprise
                   </div>
                 </div>
               </div>
@@ -242,15 +242,15 @@ data-wf-page="5f113d12bb9eaa5a88d245f0" data-wf-site=
                 <div class="_w-price">
                   <div class="c-currency">
                     <div class="currency">
-                      $
+                      R
                     </div>
                   </div>
                   <div class="c-amount">
                     <div class="amount">
-                      49
+                      899
                     </div>
                     <div class="decimal">
-                      .95
+                      .99
                     </div>
                   </div>
                 </div>
@@ -314,7 +314,7 @@ data-wf-page="5f113d12bb9eaa5a88d245f0" data-wf-site=
                 <div class="_w-price-btn">
                   <a href="#" class="a-price-btn w-inline-block">
                   <div>
-                    Subscribe Now
+                    SELECT THIS PLAN
                   </div></a>
                 </div>
               </div>
@@ -331,12 +331,12 @@ data-wf-page="5f113d12bb9eaa5a88d245f0" data-wf-site=
     "https://assets.website-files.com/5f113d12bb9eaa519cd245ef/5f113de311cd340f2ece8613_favicon.png"
     alt="" class="sketchzlab">
     <div class="created-text">
-      Created by
+      Powered by
     </div>
     <div style=
     "-webkit-transform:translate3d(0, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0%, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)"
     class="scroll-text">
-      SketchzLab
+      Payfast
     </div>
   </div></a>
   <script src=
